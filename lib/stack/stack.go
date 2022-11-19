@@ -2,7 +2,6 @@ package stack
 
 import "container/list"
 
-// TODO: implement the methods Pop(),Push(), IsEmpty()
 type Stack struct {
 	list *list.List
 }
