@@ -2,6 +2,7 @@ package stack
 
 import "container/list"
 
+// Note stack has FILO data structure
 type Stack struct {
 	list *list.List
 }
