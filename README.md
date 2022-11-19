@@ -2,4 +2,4 @@
 
 # introduction
 
-This repo is for self-learning basic data structures and algorithms in Go.
+This repo is for self-learning some basic data structures and algorithms in Go.
